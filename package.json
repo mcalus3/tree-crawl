@@ -1,10 +1,10 @@
 {
-  "name": "tree-crawl",
+  "name": "async-tree-crawl",
   "version": "1.1.0",
   "description": "Agnostic tree traversal library.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh/)",
   "license": "MIT",
-  "repository": "ngryman/tree-crawl",
+  "repository": "mcalus3/tree-crawl",
   "main": "dist/tree-crawl.js",
   "browser": "dist/tree-crawl.js",
   "module": "index.js",
